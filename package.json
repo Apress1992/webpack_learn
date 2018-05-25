@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/Apress1992/webpack_learn#readme",
   "devDependencies": {
+    "css-loader": "^0.28.11",
+    "style-loader": "^0.21.0",
     "webpack": "^4.8.3",
     "webpack-cli": "^2.1.4"
   },
